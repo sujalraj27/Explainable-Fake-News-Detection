@@ -116,13 +116,10 @@ artifacts:
 
 ## 👩‍💻 Author
 
-Amisha Kumari
+Sujal Raj
 
 Department of Computer Science and Engineering
 
-KIIT Deemed to be University
-
-Bhubaneswar, Odisha, India
 
 ## 📄 Research
 
