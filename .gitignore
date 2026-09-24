@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment
+.env
+backend/.env
+
+# Dataset
+backend/data/raw/
+backend/data/processed/
+
+# Saved Models
+backend/models/saved/
+
+# Generated Results
+backend/results/
+results/
